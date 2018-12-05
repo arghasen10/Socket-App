@@ -17,4 +17,4 @@ Give any name to the User field. Nowselect any option and vote.
 Python server side script will generate an example1.csv file in the same directory and there you will get the name of the User and the option selected by the user.
 
 #### Please Note: 
-Mobile Phone and Laptop should be connected to same network. Sharing Hotspot from Laptop to phone will not work. 
+Mobile Phone and Laptop should be connected to same network. Sharing Hotspot from Laptop to phone will not work. For example if your laptop and Android both connected to a hotspot other than their own it will work fine. Sharing Android's hotspot for laptop and Laptop's hotspot for Android will not allow Socket Communication between them.
